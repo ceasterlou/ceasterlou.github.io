@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: ceasterlou
 header-img: img/home-bg.jpg
 email: ceasterlou@gmail.com
-copyright_name: Your/Project/Corporate Name
+copyright_name: babaco
 description: "Write your site description here. It will be used as your sites meta description as well!"
 url: "http://ceasterlou.github.io"
 twitter_username: ceasterlou
 github_username:  ceasterlou
-facebook_username:  StartBootstrap
+facebook_username:  Aisy Von Einzbern
 email_username:  ceasterlou@gmail.com
 
 # Google Analytics
@@ -21,4 +21,4 @@ permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-feed]
+gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag]
